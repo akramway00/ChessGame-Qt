@@ -70,7 +70,7 @@ The game window includes:
 - Qt framework for GUI and multimedia (Qt Multimedia module for music).
 
 ### Acknowledgments
-- **Developers**: akramway00
+- **Developer**: akramway00
 - **Music**: Background music added to enhance the user experience.
 
 Enjoy the game!
